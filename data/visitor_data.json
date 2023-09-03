@@ -1,0 +1,2192 @@
+[
+  {
+    "Date": "2023-09-01T00:00:00.000",
+    "Total_Visitors": 164,
+    "Male_Visitors": 82,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2023-09-02T00:00:00.000",
+    "Total_Visitors": 164,
+    "Male_Visitors": 82,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2023-09-03T00:00:00.000",
+    "Total_Visitors": 113,
+    "Male_Visitors": 56,
+    "Female_Visitors": 57
+  },
+  {
+    "Date": "2023-09-04T00:00:00.000",
+    "Total_Visitors": 128,
+    "Male_Visitors": 64,
+    "Female_Visitors": 64
+  },
+  {
+    "Date": "2023-09-05T00:00:00.000",
+    "Total_Visitors": 300,
+    "Male_Visitors": 150,
+    "Female_Visitors": 150
+  },
+  {
+    "Date": "2023-09-06T00:00:00.000",
+    "Total_Visitors": 288,
+    "Male_Visitors": 144,
+    "Female_Visitors": 144
+  },
+  {
+    "Date": "2023-09-07T00:00:00.000",
+    "Total_Visitors": 113,
+    "Male_Visitors": 56,
+    "Female_Visitors": 57
+  },
+  {
+    "Date": "2023-09-08T00:00:00.000",
+    "Total_Visitors": 128,
+    "Male_Visitors": 64,
+    "Female_Visitors": 64
+  },
+  {
+    "Date": "2023-09-09T00:00:00.000",
+    "Total_Visitors": 166,
+    "Male_Visitors": 83,
+    "Female_Visitors": 83
+  },
+  {
+    "Date": "2023-09-10T00:00:00.000",
+    "Total_Visitors": 188,
+    "Male_Visitors": 94,
+    "Female_Visitors": 94
+  },
+  {
+    "Date": "2023-09-11T00:00:00.000",
+    "Total_Visitors": 223,
+    "Male_Visitors": 111,
+    "Female_Visitors": 112
+  },
+  {
+    "Date": "2023-09-12T00:00:00.000",
+    "Total_Visitors": 217,
+    "Male_Visitors": 108,
+    "Female_Visitors": 109
+  },
+  {
+    "Date": "2023-09-13T00:00:00.000",
+    "Total_Visitors": 144,
+    "Male_Visitors": 72,
+    "Female_Visitors": 72
+  },
+  {
+    "Date": "2023-09-14T00:00:00.000",
+    "Total_Visitors": 144,
+    "Male_Visitors": 72,
+    "Female_Visitors": 72
+  },
+  {
+    "Date": "2023-09-15T00:00:00.000",
+    "Total_Visitors": 130,
+    "Male_Visitors": 65,
+    "Female_Visitors": 65
+  },
+  {
+    "Date": "2023-09-16T00:00:00.000",
+    "Total_Visitors": 105,
+    "Male_Visitors": 52,
+    "Female_Visitors": 53
+  },
+  {
+    "Date": "2023-09-17T00:00:00.000",
+    "Total_Visitors": 285,
+    "Male_Visitors": 142,
+    "Female_Visitors": 143
+  },
+  {
+    "Date": "2023-09-18T00:00:00.000",
+    "Total_Visitors": 152,
+    "Male_Visitors": 76,
+    "Female_Visitors": 76
+  },
+  {
+    "Date": "2023-09-19T00:00:00.000",
+    "Total_Visitors": 262,
+    "Male_Visitors": 131,
+    "Female_Visitors": 131
+  },
+  {
+    "Date": "2023-09-20T00:00:00.000",
+    "Total_Visitors": 198,
+    "Male_Visitors": 99,
+    "Female_Visitors": 99
+  },
+  {
+    "Date": "2023-09-21T00:00:00.000",
+    "Total_Visitors": 146,
+    "Male_Visitors": 73,
+    "Female_Visitors": 73
+  },
+  {
+    "Date": "2023-09-22T00:00:00.000",
+    "Total_Visitors": 211,
+    "Male_Visitors": 105,
+    "Female_Visitors": 106
+  },
+  {
+    "Date": "2023-09-23T00:00:00.000",
+    "Total_Visitors": 251,
+    "Male_Visitors": 125,
+    "Female_Visitors": 126
+  },
+  {
+    "Date": "2023-09-24T00:00:00.000",
+    "Total_Visitors": 200,
+    "Male_Visitors": 100,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2023-09-25T00:00:00.000",
+    "Total_Visitors": 123,
+    "Male_Visitors": 61,
+    "Female_Visitors": 62
+  },
+  {
+    "Date": "2023-09-26T00:00:00.000",
+    "Total_Visitors": 156,
+    "Male_Visitors": 78,
+    "Female_Visitors": 78
+  },
+  {
+    "Date": "2023-09-27T00:00:00.000",
+    "Total_Visitors": 137,
+    "Male_Visitors": 68,
+    "Female_Visitors": 69
+  },
+  {
+    "Date": "2023-09-28T00:00:00.000",
+    "Total_Visitors": 262,
+    "Male_Visitors": 131,
+    "Female_Visitors": 131
+  },
+  {
+    "Date": "2023-09-29T00:00:00.000",
+    "Total_Visitors": 163,
+    "Male_Visitors": 81,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2023-09-30T00:00:00.000",
+    "Total_Visitors": 141,
+    "Male_Visitors": 70,
+    "Female_Visitors": 71
+  },
+  {
+    "Date": "2023-10-01T00:00:00.000",
+    "Total_Visitors": 276,
+    "Male_Visitors": 138,
+    "Female_Visitors": 138
+  },
+  {
+    "Date": "2023-10-02T00:00:00.000",
+    "Total_Visitors": 269,
+    "Male_Visitors": 134,
+    "Female_Visitors": 135
+  },
+  {
+    "Date": "2023-10-03T00:00:00.000",
+    "Total_Visitors": 284,
+    "Male_Visitors": 142,
+    "Female_Visitors": 142
+  },
+  {
+    "Date": "2023-10-04T00:00:00.000",
+    "Total_Visitors": 134,
+    "Male_Visitors": 67,
+    "Female_Visitors": 67
+  },
+  {
+    "Date": "2023-10-05T00:00:00.000",
+    "Total_Visitors": 129,
+    "Male_Visitors": 64,
+    "Female_Visitors": 65
+  },
+  {
+    "Date": "2023-10-06T00:00:00.000",
+    "Total_Visitors": 172,
+    "Male_Visitors": 86,
+    "Female_Visitors": 86
+  },
+  {
+    "Date": "2023-10-07T00:00:00.000",
+    "Total_Visitors": 157,
+    "Male_Visitors": 78,
+    "Female_Visitors": 79
+  },
+  {
+    "Date": "2023-10-08T00:00:00.000",
+    "Total_Visitors": 280,
+    "Male_Visitors": 140,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2023-10-09T00:00:00.000",
+    "Total_Visitors": 164,
+    "Male_Visitors": 82,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2023-10-10T00:00:00.000",
+    "Total_Visitors": 217,
+    "Male_Visitors": 108,
+    "Female_Visitors": 109
+  },
+  {
+    "Date": "2023-10-11T00:00:00.000",
+    "Total_Visitors": 110,
+    "Male_Visitors": 55,
+    "Female_Visitors": 55
+  },
+  {
+    "Date": "2023-10-12T00:00:00.000",
+    "Total_Visitors": 175,
+    "Male_Visitors": 87,
+    "Female_Visitors": 88
+  },
+  {
+    "Date": "2023-10-13T00:00:00.000",
+    "Total_Visitors": 205,
+    "Male_Visitors": 102,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2023-10-14T00:00:00.000",
+    "Total_Visitors": 184,
+    "Male_Visitors": 92,
+    "Female_Visitors": 92
+  },
+  {
+    "Date": "2023-10-15T00:00:00.000",
+    "Total_Visitors": 178,
+    "Male_Visitors": 89,
+    "Female_Visitors": 89
+  },
+  {
+    "Date": "2023-10-16T00:00:00.000",
+    "Total_Visitors": 280,
+    "Male_Visitors": 140,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2023-10-17T00:00:00.000",
+    "Total_Visitors": 223,
+    "Male_Visitors": 111,
+    "Female_Visitors": 112
+  },
+  {
+    "Date": "2023-10-18T00:00:00.000",
+    "Total_Visitors": 172,
+    "Male_Visitors": 86,
+    "Female_Visitors": 86
+  },
+  {
+    "Date": "2023-10-19T00:00:00.000",
+    "Total_Visitors": 203,
+    "Male_Visitors": 101,
+    "Female_Visitors": 102
+  },
+  {
+    "Date": "2023-10-20T00:00:00.000",
+    "Total_Visitors": 212,
+    "Male_Visitors": 106,
+    "Female_Visitors": 106
+  },
+  {
+    "Date": "2023-10-21T00:00:00.000",
+    "Total_Visitors": 166,
+    "Male_Visitors": 83,
+    "Female_Visitors": 83
+  },
+  {
+    "Date": "2023-10-22T00:00:00.000",
+    "Total_Visitors": 243,
+    "Male_Visitors": 121,
+    "Female_Visitors": 122
+  },
+  {
+    "Date": "2023-10-23T00:00:00.000",
+    "Total_Visitors": 175,
+    "Male_Visitors": 87,
+    "Female_Visitors": 88
+  },
+  {
+    "Date": "2023-10-24T00:00:00.000",
+    "Total_Visitors": 290,
+    "Male_Visitors": 145,
+    "Female_Visitors": 145
+  },
+  {
+    "Date": "2023-10-25T00:00:00.000",
+    "Total_Visitors": 236,
+    "Male_Visitors": 118,
+    "Female_Visitors": 118
+  },
+  {
+    "Date": "2023-10-26T00:00:00.000",
+    "Total_Visitors": 112,
+    "Male_Visitors": 56,
+    "Female_Visitors": 56
+  },
+  {
+    "Date": "2023-10-27T00:00:00.000",
+    "Total_Visitors": 203,
+    "Male_Visitors": 101,
+    "Female_Visitors": 102
+  },
+  {
+    "Date": "2023-10-28T00:00:00.000",
+    "Total_Visitors": 286,
+    "Male_Visitors": 143,
+    "Female_Visitors": 143
+  },
+  {
+    "Date": "2023-10-29T00:00:00.000",
+    "Total_Visitors": 126,
+    "Male_Visitors": 63,
+    "Female_Visitors": 63
+  },
+  {
+    "Date": "2023-10-30T00:00:00.000",
+    "Total_Visitors": 206,
+    "Male_Visitors": 103,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2023-10-31T00:00:00.000",
+    "Total_Visitors": 280,
+    "Male_Visitors": 140,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2023-11-01T00:00:00.000",
+    "Total_Visitors": 272,
+    "Male_Visitors": 163,
+    "Female_Visitors": 109
+  },
+  {
+    "Date": "2023-11-02T00:00:00.000",
+    "Total_Visitors": 204,
+    "Male_Visitors": 122,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2023-11-03T00:00:00.000",
+    "Total_Visitors": 277,
+    "Male_Visitors": 166,
+    "Female_Visitors": 111
+  },
+  {
+    "Date": "2023-11-04T00:00:00.000",
+    "Total_Visitors": 133,
+    "Male_Visitors": 79,
+    "Female_Visitors": 54
+  },
+  {
+    "Date": "2023-11-05T00:00:00.000",
+    "Total_Visitors": 240,
+    "Male_Visitors": 144,
+    "Female_Visitors": 96
+  },
+  {
+    "Date": "2023-11-06T00:00:00.000",
+    "Total_Visitors": 222,
+    "Male_Visitors": 133,
+    "Female_Visitors": 89
+  },
+  {
+    "Date": "2023-11-07T00:00:00.000",
+    "Total_Visitors": 178,
+    "Male_Visitors": 106,
+    "Female_Visitors": 72
+  },
+  {
+    "Date": "2023-11-08T00:00:00.000",
+    "Total_Visitors": 157,
+    "Male_Visitors": 94,
+    "Female_Visitors": 63
+  },
+  {
+    "Date": "2023-11-09T00:00:00.000",
+    "Total_Visitors": 112,
+    "Male_Visitors": 67,
+    "Female_Visitors": 45
+  },
+  {
+    "Date": "2023-11-10T00:00:00.000",
+    "Total_Visitors": 219,
+    "Male_Visitors": 131,
+    "Female_Visitors": 88
+  },
+  {
+    "Date": "2023-11-11T00:00:00.000",
+    "Total_Visitors": 122,
+    "Male_Visitors": 73,
+    "Female_Visitors": 49
+  },
+  {
+    "Date": "2023-11-12T00:00:00.000",
+    "Total_Visitors": 123,
+    "Male_Visitors": 73,
+    "Female_Visitors": 50
+  },
+  {
+    "Date": "2023-11-13T00:00:00.000",
+    "Total_Visitors": 201,
+    "Male_Visitors": 120,
+    "Female_Visitors": 81
+  },
+  {
+    "Date": "2023-11-14T00:00:00.000",
+    "Total_Visitors": 287,
+    "Male_Visitors": 172,
+    "Female_Visitors": 115
+  },
+  {
+    "Date": "2023-11-15T00:00:00.000",
+    "Total_Visitors": 161,
+    "Male_Visitors": 96,
+    "Female_Visitors": 65
+  },
+  {
+    "Date": "2023-11-16T00:00:00.000",
+    "Total_Visitors": 169,
+    "Male_Visitors": 101,
+    "Female_Visitors": 68
+  },
+  {
+    "Date": "2023-11-17T00:00:00.000",
+    "Total_Visitors": 159,
+    "Male_Visitors": 95,
+    "Female_Visitors": 64
+  },
+  {
+    "Date": "2023-11-18T00:00:00.000",
+    "Total_Visitors": 174,
+    "Male_Visitors": 104,
+    "Female_Visitors": 70
+  },
+  {
+    "Date": "2023-11-19T00:00:00.000",
+    "Total_Visitors": 184,
+    "Male_Visitors": 110,
+    "Female_Visitors": 74
+  },
+  {
+    "Date": "2023-11-20T00:00:00.000",
+    "Total_Visitors": 190,
+    "Male_Visitors": 114,
+    "Female_Visitors": 76
+  },
+  {
+    "Date": "2023-11-21T00:00:00.000",
+    "Total_Visitors": 171,
+    "Male_Visitors": 102,
+    "Female_Visitors": 69
+  },
+  {
+    "Date": "2023-11-22T00:00:00.000",
+    "Total_Visitors": 159,
+    "Male_Visitors": 95,
+    "Female_Visitors": 64
+  },
+  {
+    "Date": "2023-11-23T00:00:00.000",
+    "Total_Visitors": 129,
+    "Male_Visitors": 77,
+    "Female_Visitors": 52
+  },
+  {
+    "Date": "2023-11-24T00:00:00.000",
+    "Total_Visitors": 256,
+    "Male_Visitors": 153,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2023-11-25T00:00:00.000",
+    "Total_Visitors": 167,
+    "Male_Visitors": 100,
+    "Female_Visitors": 67
+  },
+  {
+    "Date": "2023-11-26T00:00:00.000",
+    "Total_Visitors": 206,
+    "Male_Visitors": 123,
+    "Female_Visitors": 83
+  },
+  {
+    "Date": "2023-11-27T00:00:00.000",
+    "Total_Visitors": 271,
+    "Male_Visitors": 162,
+    "Female_Visitors": 109
+  },
+  {
+    "Date": "2023-11-28T00:00:00.000",
+    "Total_Visitors": 181,
+    "Male_Visitors": 108,
+    "Female_Visitors": 73
+  },
+  {
+    "Date": "2023-11-29T00:00:00.000",
+    "Total_Visitors": 263,
+    "Male_Visitors": 157,
+    "Female_Visitors": 106
+  },
+  {
+    "Date": "2023-11-30T00:00:00.000",
+    "Total_Visitors": 164,
+    "Male_Visitors": 98,
+    "Female_Visitors": 66
+  },
+  {
+    "Date": "2023-12-01T00:00:00.000",
+    "Total_Visitors": 184,
+    "Male_Visitors": 110,
+    "Female_Visitors": 74
+  },
+  {
+    "Date": "2023-12-02T00:00:00.000",
+    "Total_Visitors": 280,
+    "Male_Visitors": 168,
+    "Female_Visitors": 112
+  },
+  {
+    "Date": "2023-12-03T00:00:00.000",
+    "Total_Visitors": 245,
+    "Male_Visitors": 147,
+    "Female_Visitors": 98
+  },
+  {
+    "Date": "2023-12-04T00:00:00.000",
+    "Total_Visitors": 225,
+    "Male_Visitors": 135,
+    "Female_Visitors": 90
+  },
+  {
+    "Date": "2023-12-05T00:00:00.000",
+    "Total_Visitors": 210,
+    "Male_Visitors": 126,
+    "Female_Visitors": 84
+  },
+  {
+    "Date": "2023-12-06T00:00:00.000",
+    "Total_Visitors": 110,
+    "Male_Visitors": 66,
+    "Female_Visitors": 44
+  },
+  {
+    "Date": "2023-12-07T00:00:00.000",
+    "Total_Visitors": 195,
+    "Male_Visitors": 117,
+    "Female_Visitors": 78
+  },
+  {
+    "Date": "2023-12-08T00:00:00.000",
+    "Total_Visitors": 166,
+    "Male_Visitors": 99,
+    "Female_Visitors": 67
+  },
+  {
+    "Date": "2023-12-09T00:00:00.000",
+    "Total_Visitors": 220,
+    "Male_Visitors": 132,
+    "Female_Visitors": 88
+  },
+  {
+    "Date": "2023-12-10T00:00:00.000",
+    "Total_Visitors": 129,
+    "Male_Visitors": 77,
+    "Female_Visitors": 52
+  },
+  {
+    "Date": "2023-12-11T00:00:00.000",
+    "Total_Visitors": 275,
+    "Male_Visitors": 165,
+    "Female_Visitors": 110
+  },
+  {
+    "Date": "2023-12-12T00:00:00.000",
+    "Total_Visitors": 257,
+    "Male_Visitors": 154,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2023-12-13T00:00:00.000",
+    "Total_Visitors": 132,
+    "Male_Visitors": 79,
+    "Female_Visitors": 53
+  },
+  {
+    "Date": "2023-12-14T00:00:00.000",
+    "Total_Visitors": 262,
+    "Male_Visitors": 157,
+    "Female_Visitors": 105
+  },
+  {
+    "Date": "2023-12-15T00:00:00.000",
+    "Total_Visitors": 294,
+    "Male_Visitors": 176,
+    "Female_Visitors": 118
+  },
+  {
+    "Date": "2023-12-16T00:00:00.000",
+    "Total_Visitors": 162,
+    "Male_Visitors": 97,
+    "Female_Visitors": 65
+  },
+  {
+    "Date": "2023-12-17T00:00:00.000",
+    "Total_Visitors": 154,
+    "Male_Visitors": 92,
+    "Female_Visitors": 62
+  },
+  {
+    "Date": "2023-12-18T00:00:00.000",
+    "Total_Visitors": 262,
+    "Male_Visitors": 157,
+    "Female_Visitors": 105
+  },
+  {
+    "Date": "2023-12-19T00:00:00.000",
+    "Total_Visitors": 250,
+    "Male_Visitors": 150,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2023-12-20T00:00:00.000",
+    "Total_Visitors": 385,
+    "Male_Visitors": 231,
+    "Female_Visitors": 154
+  },
+  {
+    "Date": "2023-12-21T00:00:00.000",
+    "Total_Visitors": 304,
+    "Male_Visitors": 182,
+    "Female_Visitors": 122
+  },
+  {
+    "Date": "2023-12-22T00:00:00.000",
+    "Total_Visitors": 350,
+    "Male_Visitors": 210,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2023-12-23T00:00:00.000",
+    "Total_Visitors": 311,
+    "Male_Visitors": 186,
+    "Female_Visitors": 125
+  },
+  {
+    "Date": "2023-12-24T00:00:00.000",
+    "Total_Visitors": 432,
+    "Male_Visitors": 259,
+    "Female_Visitors": 173
+  },
+  {
+    "Date": "2023-12-25T00:00:00.000",
+    "Total_Visitors": 382,
+    "Male_Visitors": 229,
+    "Female_Visitors": 153
+  },
+  {
+    "Date": "2023-12-26T00:00:00.000",
+    "Total_Visitors": 366,
+    "Male_Visitors": 219,
+    "Female_Visitors": 147
+  },
+  {
+    "Date": "2023-12-27T00:00:00.000",
+    "Total_Visitors": 344,
+    "Male_Visitors": 206,
+    "Female_Visitors": 138
+  },
+  {
+    "Date": "2023-12-28T00:00:00.000",
+    "Total_Visitors": 305,
+    "Male_Visitors": 183,
+    "Female_Visitors": 122
+  },
+  {
+    "Date": "2023-12-29T00:00:00.000",
+    "Total_Visitors": 326,
+    "Male_Visitors": 195,
+    "Female_Visitors": 131
+  },
+  {
+    "Date": "2023-12-30T00:00:00.000",
+    "Total_Visitors": 300,
+    "Male_Visitors": 180,
+    "Female_Visitors": 120
+  },
+  {
+    "Date": "2023-12-31T00:00:00.000",
+    "Total_Visitors": 406,
+    "Male_Visitors": 243,
+    "Female_Visitors": 163
+  },
+  {
+    "Date": "2024-01-01T00:00:00.000",
+    "Total_Visitors": 454,
+    "Male_Visitors": 272,
+    "Female_Visitors": 182
+  },
+  {
+    "Date": "2024-01-02T00:00:00.000",
+    "Total_Visitors": 342,
+    "Male_Visitors": 205,
+    "Female_Visitors": 137
+  },
+  {
+    "Date": "2024-01-03T00:00:00.000",
+    "Total_Visitors": 311,
+    "Male_Visitors": 186,
+    "Female_Visitors": 125
+  },
+  {
+    "Date": "2024-01-04T00:00:00.000",
+    "Total_Visitors": 414,
+    "Male_Visitors": 248,
+    "Female_Visitors": 166
+  },
+  {
+    "Date": "2024-01-05T00:00:00.000",
+    "Total_Visitors": 337,
+    "Male_Visitors": 202,
+    "Female_Visitors": 135
+  },
+  {
+    "Date": "2024-01-06T00:00:00.000",
+    "Total_Visitors": 286,
+    "Male_Visitors": 171,
+    "Female_Visitors": 115
+  },
+  {
+    "Date": "2024-01-07T00:00:00.000",
+    "Total_Visitors": 249,
+    "Male_Visitors": 149,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2024-01-08T00:00:00.000",
+    "Total_Visitors": 355,
+    "Male_Visitors": 213,
+    "Female_Visitors": 142
+  },
+  {
+    "Date": "2024-01-09T00:00:00.000",
+    "Total_Visitors": 357,
+    "Male_Visitors": 214,
+    "Female_Visitors": 143
+  },
+  {
+    "Date": "2024-01-10T00:00:00.000",
+    "Total_Visitors": 441,
+    "Male_Visitors": 264,
+    "Female_Visitors": 177
+  },
+  {
+    "Date": "2024-01-11T00:00:00.000",
+    "Total_Visitors": 204,
+    "Male_Visitors": 122,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2024-01-12T00:00:00.000",
+    "Total_Visitors": 217,
+    "Male_Visitors": 130,
+    "Female_Visitors": 87
+  },
+  {
+    "Date": "2024-01-13T00:00:00.000",
+    "Total_Visitors": 230,
+    "Male_Visitors": 138,
+    "Female_Visitors": 92
+  },
+  {
+    "Date": "2024-01-14T00:00:00.000",
+    "Total_Visitors": 124,
+    "Male_Visitors": 74,
+    "Female_Visitors": 50
+  },
+  {
+    "Date": "2024-01-15T00:00:00.000",
+    "Total_Visitors": 193,
+    "Male_Visitors": 115,
+    "Female_Visitors": 78
+  },
+  {
+    "Date": "2024-01-16T00:00:00.000",
+    "Total_Visitors": 210,
+    "Male_Visitors": 126,
+    "Female_Visitors": 84
+  },
+  {
+    "Date": "2024-01-17T00:00:00.000",
+    "Total_Visitors": 221,
+    "Male_Visitors": 132,
+    "Female_Visitors": 89
+  },
+  {
+    "Date": "2024-01-18T00:00:00.000",
+    "Total_Visitors": 260,
+    "Male_Visitors": 156,
+    "Female_Visitors": 104
+  },
+  {
+    "Date": "2024-01-19T00:00:00.000",
+    "Total_Visitors": 200,
+    "Male_Visitors": 120,
+    "Female_Visitors": 80
+  },
+  {
+    "Date": "2024-01-20T00:00:00.000",
+    "Total_Visitors": 296,
+    "Male_Visitors": 177,
+    "Female_Visitors": 119
+  },
+  {
+    "Date": "2024-01-21T00:00:00.000",
+    "Total_Visitors": 169,
+    "Male_Visitors": 101,
+    "Female_Visitors": 68
+  },
+  {
+    "Date": "2024-01-22T00:00:00.000",
+    "Total_Visitors": 199,
+    "Male_Visitors": 119,
+    "Female_Visitors": 80
+  },
+  {
+    "Date": "2024-01-23T00:00:00.000",
+    "Total_Visitors": 189,
+    "Male_Visitors": 113,
+    "Female_Visitors": 76
+  },
+  {
+    "Date": "2024-01-24T00:00:00.000",
+    "Total_Visitors": 135,
+    "Male_Visitors": 81,
+    "Female_Visitors": 54
+  },
+  {
+    "Date": "2024-01-25T00:00:00.000",
+    "Total_Visitors": 153,
+    "Male_Visitors": 91,
+    "Female_Visitors": 62
+  },
+  {
+    "Date": "2024-01-26T00:00:00.000",
+    "Total_Visitors": 137,
+    "Male_Visitors": 82,
+    "Female_Visitors": 55
+  },
+  {
+    "Date": "2024-01-27T00:00:00.000",
+    "Total_Visitors": 213,
+    "Male_Visitors": 127,
+    "Female_Visitors": 86
+  },
+  {
+    "Date": "2024-01-28T00:00:00.000",
+    "Total_Visitors": 235,
+    "Male_Visitors": 141,
+    "Female_Visitors": 94
+  },
+  {
+    "Date": "2024-01-29T00:00:00.000",
+    "Total_Visitors": 262,
+    "Male_Visitors": 157,
+    "Female_Visitors": 105
+  },
+  {
+    "Date": "2024-01-30T00:00:00.000",
+    "Total_Visitors": 142,
+    "Male_Visitors": 85,
+    "Female_Visitors": 57
+  },
+  {
+    "Date": "2024-01-31T00:00:00.000",
+    "Total_Visitors": 282,
+    "Male_Visitors": 169,
+    "Female_Visitors": 113
+  },
+  {
+    "Date": "2024-02-01T00:00:00.000",
+    "Total_Visitors": 153,
+    "Male_Visitors": 91,
+    "Female_Visitors": 62
+  },
+  {
+    "Date": "2024-02-02T00:00:00.000",
+    "Total_Visitors": 144,
+    "Male_Visitors": 86,
+    "Female_Visitors": 58
+  },
+  {
+    "Date": "2024-02-03T00:00:00.000",
+    "Total_Visitors": 191,
+    "Male_Visitors": 114,
+    "Female_Visitors": 77
+  },
+  {
+    "Date": "2024-02-04T00:00:00.000",
+    "Total_Visitors": 241,
+    "Male_Visitors": 144,
+    "Female_Visitors": 97
+  },
+  {
+    "Date": "2024-02-05T00:00:00.000",
+    "Total_Visitors": 158,
+    "Male_Visitors": 94,
+    "Female_Visitors": 64
+  },
+  {
+    "Date": "2024-02-06T00:00:00.000",
+    "Total_Visitors": 230,
+    "Male_Visitors": 138,
+    "Female_Visitors": 92
+  },
+  {
+    "Date": "2024-02-07T00:00:00.000",
+    "Total_Visitors": 268,
+    "Male_Visitors": 160,
+    "Female_Visitors": 108
+  },
+  {
+    "Date": "2024-02-08T00:00:00.000",
+    "Total_Visitors": 248,
+    "Male_Visitors": 148,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2024-02-09T00:00:00.000",
+    "Total_Visitors": 184,
+    "Male_Visitors": 110,
+    "Female_Visitors": 74
+  },
+  {
+    "Date": "2024-02-10T00:00:00.000",
+    "Total_Visitors": 116,
+    "Male_Visitors": 69,
+    "Female_Visitors": 47
+  },
+  {
+    "Date": "2024-02-11T00:00:00.000",
+    "Total_Visitors": 220,
+    "Male_Visitors": 132,
+    "Female_Visitors": 88
+  },
+  {
+    "Date": "2024-02-12T00:00:00.000",
+    "Total_Visitors": 278,
+    "Male_Visitors": 166,
+    "Female_Visitors": 112
+  },
+  {
+    "Date": "2024-02-13T00:00:00.000",
+    "Total_Visitors": 168,
+    "Male_Visitors": 100,
+    "Female_Visitors": 68
+  },
+  {
+    "Date": "2024-02-14T00:00:00.000",
+    "Total_Visitors": 136,
+    "Male_Visitors": 81,
+    "Female_Visitors": 55
+  },
+  {
+    "Date": "2024-02-15T00:00:00.000",
+    "Total_Visitors": 151,
+    "Male_Visitors": 90,
+    "Female_Visitors": 61
+  },
+  {
+    "Date": "2024-02-16T00:00:00.000",
+    "Total_Visitors": 222,
+    "Male_Visitors": 133,
+    "Female_Visitors": 89
+  },
+  {
+    "Date": "2024-02-17T00:00:00.000",
+    "Total_Visitors": 164,
+    "Male_Visitors": 98,
+    "Female_Visitors": 66
+  },
+  {
+    "Date": "2024-02-18T00:00:00.000",
+    "Total_Visitors": 244,
+    "Male_Visitors": 146,
+    "Female_Visitors": 98
+  },
+  {
+    "Date": "2024-02-19T00:00:00.000",
+    "Total_Visitors": 114,
+    "Male_Visitors": 68,
+    "Female_Visitors": 46
+  },
+  {
+    "Date": "2024-02-20T00:00:00.000",
+    "Total_Visitors": 194,
+    "Male_Visitors": 116,
+    "Female_Visitors": 78
+  },
+  {
+    "Date": "2024-02-21T00:00:00.000",
+    "Total_Visitors": 130,
+    "Male_Visitors": 78,
+    "Female_Visitors": 52
+  },
+  {
+    "Date": "2024-02-22T00:00:00.000",
+    "Total_Visitors": 202,
+    "Male_Visitors": 121,
+    "Female_Visitors": 81
+  },
+  {
+    "Date": "2024-02-23T00:00:00.000",
+    "Total_Visitors": 243,
+    "Male_Visitors": 145,
+    "Female_Visitors": 98
+  },
+  {
+    "Date": "2024-02-24T00:00:00.000",
+    "Total_Visitors": 228,
+    "Male_Visitors": 136,
+    "Female_Visitors": 92
+  },
+  {
+    "Date": "2024-02-25T00:00:00.000",
+    "Total_Visitors": 231,
+    "Male_Visitors": 138,
+    "Female_Visitors": 93
+  },
+  {
+    "Date": "2024-02-26T00:00:00.000",
+    "Total_Visitors": 249,
+    "Male_Visitors": 149,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2024-02-27T00:00:00.000",
+    "Total_Visitors": 275,
+    "Male_Visitors": 165,
+    "Female_Visitors": 110
+  },
+  {
+    "Date": "2024-02-28T00:00:00.000",
+    "Total_Visitors": 222,
+    "Male_Visitors": 133,
+    "Female_Visitors": 89
+  },
+  {
+    "Date": "2024-02-29T00:00:00.000",
+    "Total_Visitors": 174,
+    "Male_Visitors": 87,
+    "Female_Visitors": 87
+  },
+  {
+    "Date": "2024-03-01T00:00:00.000",
+    "Total_Visitors": 131,
+    "Male_Visitors": 65,
+    "Female_Visitors": 66
+  },
+  {
+    "Date": "2024-03-02T00:00:00.000",
+    "Total_Visitors": 274,
+    "Male_Visitors": 137,
+    "Female_Visitors": 137
+  },
+  {
+    "Date": "2024-03-03T00:00:00.000",
+    "Total_Visitors": 148,
+    "Male_Visitors": 74,
+    "Female_Visitors": 74
+  },
+  {
+    "Date": "2024-03-04T00:00:00.000",
+    "Total_Visitors": 166,
+    "Male_Visitors": 83,
+    "Female_Visitors": 83
+  },
+  {
+    "Date": "2024-03-05T00:00:00.000",
+    "Total_Visitors": 215,
+    "Male_Visitors": 107,
+    "Female_Visitors": 108
+  },
+  {
+    "Date": "2024-03-06T00:00:00.000",
+    "Total_Visitors": 281,
+    "Male_Visitors": 140,
+    "Female_Visitors": 141
+  },
+  {
+    "Date": "2024-03-07T00:00:00.000",
+    "Total_Visitors": 244,
+    "Male_Visitors": 122,
+    "Female_Visitors": 122
+  },
+  {
+    "Date": "2024-03-08T00:00:00.000",
+    "Total_Visitors": 159,
+    "Male_Visitors": 79,
+    "Female_Visitors": 80
+  },
+  {
+    "Date": "2024-03-09T00:00:00.000",
+    "Total_Visitors": 181,
+    "Male_Visitors": 90,
+    "Female_Visitors": 91
+  },
+  {
+    "Date": "2024-03-10T00:00:00.000",
+    "Total_Visitors": 144,
+    "Male_Visitors": 72,
+    "Female_Visitors": 72
+  },
+  {
+    "Date": "2024-03-11T00:00:00.000",
+    "Total_Visitors": 174,
+    "Male_Visitors": 87,
+    "Female_Visitors": 87
+  },
+  {
+    "Date": "2024-03-12T00:00:00.000",
+    "Total_Visitors": 217,
+    "Male_Visitors": 108,
+    "Female_Visitors": 109
+  },
+  {
+    "Date": "2024-03-13T00:00:00.000",
+    "Total_Visitors": 236,
+    "Male_Visitors": 118,
+    "Female_Visitors": 118
+  },
+  {
+    "Date": "2024-03-14T00:00:00.000",
+    "Total_Visitors": 137,
+    "Male_Visitors": 68,
+    "Female_Visitors": 69
+  },
+  {
+    "Date": "2024-03-15T00:00:00.000",
+    "Total_Visitors": 300,
+    "Male_Visitors": 150,
+    "Female_Visitors": 150
+  },
+  {
+    "Date": "2024-03-16T00:00:00.000",
+    "Total_Visitors": 212,
+    "Male_Visitors": 106,
+    "Female_Visitors": 106
+  },
+  {
+    "Date": "2024-03-17T00:00:00.000",
+    "Total_Visitors": 282,
+    "Male_Visitors": 141,
+    "Female_Visitors": 141
+  },
+  {
+    "Date": "2024-03-18T00:00:00.000",
+    "Total_Visitors": 235,
+    "Male_Visitors": 117,
+    "Female_Visitors": 118
+  },
+  {
+    "Date": "2024-03-19T00:00:00.000",
+    "Total_Visitors": 294,
+    "Male_Visitors": 147,
+    "Female_Visitors": 147
+  },
+  {
+    "Date": "2024-03-20T00:00:00.000",
+    "Total_Visitors": 168,
+    "Male_Visitors": 84,
+    "Female_Visitors": 84
+  },
+  {
+    "Date": "2024-03-21T00:00:00.000",
+    "Total_Visitors": 271,
+    "Male_Visitors": 135,
+    "Female_Visitors": 136
+  },
+  {
+    "Date": "2024-03-22T00:00:00.000",
+    "Total_Visitors": 163,
+    "Male_Visitors": 81,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2024-03-23T00:00:00.000",
+    "Total_Visitors": 272,
+    "Male_Visitors": 136,
+    "Female_Visitors": 136
+  },
+  {
+    "Date": "2024-03-24T00:00:00.000",
+    "Total_Visitors": 176,
+    "Male_Visitors": 88,
+    "Female_Visitors": 88
+  },
+  {
+    "Date": "2024-03-25T00:00:00.000",
+    "Total_Visitors": 204,
+    "Male_Visitors": 102,
+    "Female_Visitors": 102
+  },
+  {
+    "Date": "2024-03-26T00:00:00.000",
+    "Total_Visitors": 162,
+    "Male_Visitors": 81,
+    "Female_Visitors": 81
+  },
+  {
+    "Date": "2024-03-27T00:00:00.000",
+    "Total_Visitors": 284,
+    "Male_Visitors": 142,
+    "Female_Visitors": 142
+  },
+  {
+    "Date": "2024-03-28T00:00:00.000",
+    "Total_Visitors": 289,
+    "Male_Visitors": 144,
+    "Female_Visitors": 145
+  },
+  {
+    "Date": "2024-03-29T00:00:00.000",
+    "Total_Visitors": 294,
+    "Male_Visitors": 147,
+    "Female_Visitors": 147
+  },
+  {
+    "Date": "2024-03-30T00:00:00.000",
+    "Total_Visitors": 225,
+    "Male_Visitors": 112,
+    "Female_Visitors": 113
+  },
+  {
+    "Date": "2024-03-31T00:00:00.000",
+    "Total_Visitors": 189,
+    "Male_Visitors": 94,
+    "Female_Visitors": 95
+  },
+  {
+    "Date": "2024-04-01T00:00:00.000",
+    "Total_Visitors": 177,
+    "Male_Visitors": 88,
+    "Female_Visitors": 89
+  },
+  {
+    "Date": "2024-04-02T00:00:00.000",
+    "Total_Visitors": 275,
+    "Male_Visitors": 137,
+    "Female_Visitors": 138
+  },
+  {
+    "Date": "2024-04-03T00:00:00.000",
+    "Total_Visitors": 285,
+    "Male_Visitors": 142,
+    "Female_Visitors": 143
+  },
+  {
+    "Date": "2024-04-04T00:00:00.000",
+    "Total_Visitors": 229,
+    "Male_Visitors": 114,
+    "Female_Visitors": 115
+  },
+  {
+    "Date": "2024-04-05T00:00:00.000",
+    "Total_Visitors": 240,
+    "Male_Visitors": 120,
+    "Female_Visitors": 120
+  },
+  {
+    "Date": "2024-04-06T00:00:00.000",
+    "Total_Visitors": 224,
+    "Male_Visitors": 112,
+    "Female_Visitors": 112
+  },
+  {
+    "Date": "2024-04-07T00:00:00.000",
+    "Total_Visitors": 146,
+    "Male_Visitors": 73,
+    "Female_Visitors": 73
+  },
+  {
+    "Date": "2024-04-08T00:00:00.000",
+    "Total_Visitors": 229,
+    "Male_Visitors": 114,
+    "Female_Visitors": 115
+  },
+  {
+    "Date": "2024-04-09T00:00:00.000",
+    "Total_Visitors": 111,
+    "Male_Visitors": 55,
+    "Female_Visitors": 56
+  },
+  {
+    "Date": "2024-04-10T00:00:00.000",
+    "Total_Visitors": 280,
+    "Male_Visitors": 140,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2024-04-11T00:00:00.000",
+    "Total_Visitors": 112,
+    "Male_Visitors": 56,
+    "Female_Visitors": 56
+  },
+  {
+    "Date": "2024-04-12T00:00:00.000",
+    "Total_Visitors": 213,
+    "Male_Visitors": 106,
+    "Female_Visitors": 107
+  },
+  {
+    "Date": "2024-04-13T00:00:00.000",
+    "Total_Visitors": 205,
+    "Male_Visitors": 102,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2024-04-14T00:00:00.000",
+    "Total_Visitors": 207,
+    "Male_Visitors": 103,
+    "Female_Visitors": 104
+  },
+  {
+    "Date": "2024-04-15T00:00:00.000",
+    "Total_Visitors": 216,
+    "Male_Visitors": 108,
+    "Female_Visitors": 108
+  },
+  {
+    "Date": "2024-04-16T00:00:00.000",
+    "Total_Visitors": 108,
+    "Male_Visitors": 54,
+    "Female_Visitors": 54
+  },
+  {
+    "Date": "2024-04-17T00:00:00.000",
+    "Total_Visitors": 296,
+    "Male_Visitors": 148,
+    "Female_Visitors": 148
+  },
+  {
+    "Date": "2024-04-18T00:00:00.000",
+    "Total_Visitors": 119,
+    "Male_Visitors": 59,
+    "Female_Visitors": 60
+  },
+  {
+    "Date": "2024-04-19T00:00:00.000",
+    "Total_Visitors": 167,
+    "Male_Visitors": 83,
+    "Female_Visitors": 84
+  },
+  {
+    "Date": "2024-04-20T00:00:00.000",
+    "Total_Visitors": 295,
+    "Male_Visitors": 147,
+    "Female_Visitors": 148
+  },
+  {
+    "Date": "2024-04-21T00:00:00.000",
+    "Total_Visitors": 268,
+    "Male_Visitors": 134,
+    "Female_Visitors": 134
+  },
+  {
+    "Date": "2024-04-22T00:00:00.000",
+    "Total_Visitors": 103,
+    "Male_Visitors": 51,
+    "Female_Visitors": 52
+  },
+  {
+    "Date": "2024-04-23T00:00:00.000",
+    "Total_Visitors": 287,
+    "Male_Visitors": 143,
+    "Female_Visitors": 144
+  },
+  {
+    "Date": "2024-04-24T00:00:00.000",
+    "Total_Visitors": 155,
+    "Male_Visitors": 77,
+    "Female_Visitors": 78
+  },
+  {
+    "Date": "2024-04-25T00:00:00.000",
+    "Total_Visitors": 206,
+    "Male_Visitors": 103,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2024-04-26T00:00:00.000",
+    "Total_Visitors": 255,
+    "Male_Visitors": 127,
+    "Female_Visitors": 128
+  },
+  {
+    "Date": "2024-04-27T00:00:00.000",
+    "Total_Visitors": 265,
+    "Male_Visitors": 132,
+    "Female_Visitors": 133
+  },
+  {
+    "Date": "2024-04-28T00:00:00.000",
+    "Total_Visitors": 208,
+    "Male_Visitors": 104,
+    "Female_Visitors": 104
+  },
+  {
+    "Date": "2024-04-29T00:00:00.000",
+    "Total_Visitors": 150,
+    "Male_Visitors": 75,
+    "Female_Visitors": 75
+  },
+  {
+    "Date": "2024-04-30T00:00:00.000",
+    "Total_Visitors": 128,
+    "Male_Visitors": 64,
+    "Female_Visitors": 64
+  },
+  {
+    "Date": "2024-05-01T00:00:00.000",
+    "Total_Visitors": 242,
+    "Male_Visitors": 121,
+    "Female_Visitors": 121
+  },
+  {
+    "Date": "2024-05-02T00:00:00.000",
+    "Total_Visitors": 200,
+    "Male_Visitors": 100,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2024-05-03T00:00:00.000",
+    "Total_Visitors": 289,
+    "Male_Visitors": 144,
+    "Female_Visitors": 145
+  },
+  {
+    "Date": "2024-05-04T00:00:00.000",
+    "Total_Visitors": 244,
+    "Male_Visitors": 122,
+    "Female_Visitors": 122
+  },
+  {
+    "Date": "2024-05-05T00:00:00.000",
+    "Total_Visitors": 182,
+    "Male_Visitors": 91,
+    "Female_Visitors": 91
+  },
+  {
+    "Date": "2024-05-06T00:00:00.000",
+    "Total_Visitors": 244,
+    "Male_Visitors": 122,
+    "Female_Visitors": 122
+  },
+  {
+    "Date": "2024-05-07T00:00:00.000",
+    "Total_Visitors": 276,
+    "Male_Visitors": 138,
+    "Female_Visitors": 138
+  },
+  {
+    "Date": "2024-05-08T00:00:00.000",
+    "Total_Visitors": 206,
+    "Male_Visitors": 103,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2024-05-09T00:00:00.000",
+    "Total_Visitors": 104,
+    "Male_Visitors": 52,
+    "Female_Visitors": 52
+  },
+  {
+    "Date": "2024-05-10T00:00:00.000",
+    "Total_Visitors": 166,
+    "Male_Visitors": 83,
+    "Female_Visitors": 83
+  },
+  {
+    "Date": "2024-05-11T00:00:00.000",
+    "Total_Visitors": 242,
+    "Male_Visitors": 121,
+    "Female_Visitors": 121
+  },
+  {
+    "Date": "2024-05-12T00:00:00.000",
+    "Total_Visitors": 127,
+    "Male_Visitors": 63,
+    "Female_Visitors": 64
+  },
+  {
+    "Date": "2024-05-13T00:00:00.000",
+    "Total_Visitors": 278,
+    "Male_Visitors": 139,
+    "Female_Visitors": 139
+  },
+  {
+    "Date": "2024-05-14T00:00:00.000",
+    "Total_Visitors": 145,
+    "Male_Visitors": 72,
+    "Female_Visitors": 73
+  },
+  {
+    "Date": "2024-05-15T00:00:00.000",
+    "Total_Visitors": 163,
+    "Male_Visitors": 81,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2024-05-16T00:00:00.000",
+    "Total_Visitors": 236,
+    "Male_Visitors": 118,
+    "Female_Visitors": 118
+  },
+  {
+    "Date": "2024-05-17T00:00:00.000",
+    "Total_Visitors": 222,
+    "Male_Visitors": 111,
+    "Female_Visitors": 111
+  },
+  {
+    "Date": "2024-05-18T00:00:00.000",
+    "Total_Visitors": 177,
+    "Male_Visitors": 88,
+    "Female_Visitors": 89
+  },
+  {
+    "Date": "2024-05-19T00:00:00.000",
+    "Total_Visitors": 291,
+    "Male_Visitors": 145,
+    "Female_Visitors": 146
+  },
+  {
+    "Date": "2024-05-20T00:00:00.000",
+    "Total_Visitors": 256,
+    "Male_Visitors": 128,
+    "Female_Visitors": 128
+  },
+  {
+    "Date": "2024-05-21T00:00:00.000",
+    "Total_Visitors": 182,
+    "Male_Visitors": 91,
+    "Female_Visitors": 91
+  },
+  {
+    "Date": "2024-05-22T00:00:00.000",
+    "Total_Visitors": 205,
+    "Male_Visitors": 102,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2024-05-23T00:00:00.000",
+    "Total_Visitors": 263,
+    "Male_Visitors": 131,
+    "Female_Visitors": 132
+  },
+  {
+    "Date": "2024-05-24T00:00:00.000",
+    "Total_Visitors": 228,
+    "Male_Visitors": 114,
+    "Female_Visitors": 114
+  },
+  {
+    "Date": "2024-05-25T00:00:00.000",
+    "Total_Visitors": 120,
+    "Male_Visitors": 60,
+    "Female_Visitors": 60
+  },
+  {
+    "Date": "2024-05-26T00:00:00.000",
+    "Total_Visitors": 155,
+    "Male_Visitors": 77,
+    "Female_Visitors": 78
+  },
+  {
+    "Date": "2024-05-27T00:00:00.000",
+    "Total_Visitors": 214,
+    "Male_Visitors": 107,
+    "Female_Visitors": 107
+  },
+  {
+    "Date": "2024-05-28T00:00:00.000",
+    "Total_Visitors": 253,
+    "Male_Visitors": 126,
+    "Female_Visitors": 127
+  },
+  {
+    "Date": "2024-05-29T00:00:00.000",
+    "Total_Visitors": 211,
+    "Male_Visitors": 105,
+    "Female_Visitors": 106
+  },
+  {
+    "Date": "2024-05-30T00:00:00.000",
+    "Total_Visitors": 109,
+    "Male_Visitors": 54,
+    "Female_Visitors": 55
+  },
+  {
+    "Date": "2024-05-31T00:00:00.000",
+    "Total_Visitors": 103,
+    "Male_Visitors": 51,
+    "Female_Visitors": 52
+  },
+  {
+    "Date": "2024-06-01T00:00:00.000",
+    "Total_Visitors": 231,
+    "Male_Visitors": 115,
+    "Female_Visitors": 116
+  },
+  {
+    "Date": "2024-06-02T00:00:00.000",
+    "Total_Visitors": 233,
+    "Male_Visitors": 116,
+    "Female_Visitors": 117
+  },
+  {
+    "Date": "2024-06-03T00:00:00.000",
+    "Total_Visitors": 290,
+    "Male_Visitors": 145,
+    "Female_Visitors": 145
+  },
+  {
+    "Date": "2024-06-04T00:00:00.000",
+    "Total_Visitors": 159,
+    "Male_Visitors": 79,
+    "Female_Visitors": 80
+  },
+  {
+    "Date": "2024-06-05T00:00:00.000",
+    "Total_Visitors": 167,
+    "Male_Visitors": 83,
+    "Female_Visitors": 84
+  },
+  {
+    "Date": "2024-06-06T00:00:00.000",
+    "Total_Visitors": 134,
+    "Male_Visitors": 67,
+    "Female_Visitors": 67
+  },
+  {
+    "Date": "2024-06-07T00:00:00.000",
+    "Total_Visitors": 279,
+    "Male_Visitors": 139,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2024-06-08T00:00:00.000",
+    "Total_Visitors": 102,
+    "Male_Visitors": 51,
+    "Female_Visitors": 51
+  },
+  {
+    "Date": "2024-06-09T00:00:00.000",
+    "Total_Visitors": 217,
+    "Male_Visitors": 108,
+    "Female_Visitors": 109
+  },
+  {
+    "Date": "2024-06-10T00:00:00.000",
+    "Total_Visitors": 240,
+    "Male_Visitors": 120,
+    "Female_Visitors": 120
+  },
+  {
+    "Date": "2024-06-11T00:00:00.000",
+    "Total_Visitors": 121,
+    "Male_Visitors": 60,
+    "Female_Visitors": 61
+  },
+  {
+    "Date": "2024-06-12T00:00:00.000",
+    "Total_Visitors": 223,
+    "Male_Visitors": 111,
+    "Female_Visitors": 112
+  },
+  {
+    "Date": "2024-06-13T00:00:00.000",
+    "Total_Visitors": 138,
+    "Male_Visitors": 69,
+    "Female_Visitors": 69
+  },
+  {
+    "Date": "2024-06-14T00:00:00.000",
+    "Total_Visitors": 209,
+    "Male_Visitors": 104,
+    "Female_Visitors": 105
+  },
+  {
+    "Date": "2024-06-15T00:00:00.000",
+    "Total_Visitors": 199,
+    "Male_Visitors": 99,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2024-06-16T00:00:00.000",
+    "Total_Visitors": 168,
+    "Male_Visitors": 84,
+    "Female_Visitors": 84
+  },
+  {
+    "Date": "2024-06-17T00:00:00.000",
+    "Total_Visitors": 206,
+    "Male_Visitors": 103,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2024-06-18T00:00:00.000",
+    "Total_Visitors": 204,
+    "Male_Visitors": 102,
+    "Female_Visitors": 102
+  },
+  {
+    "Date": "2024-06-19T00:00:00.000",
+    "Total_Visitors": 130,
+    "Male_Visitors": 65,
+    "Female_Visitors": 65
+  },
+  {
+    "Date": "2024-06-20T00:00:00.000",
+    "Total_Visitors": 122,
+    "Male_Visitors": 61,
+    "Female_Visitors": 61
+  },
+  {
+    "Date": "2024-06-21T00:00:00.000",
+    "Total_Visitors": 130,
+    "Male_Visitors": 65,
+    "Female_Visitors": 65
+  },
+  {
+    "Date": "2024-06-22T00:00:00.000",
+    "Total_Visitors": 155,
+    "Male_Visitors": 77,
+    "Female_Visitors": 78
+  },
+  {
+    "Date": "2024-06-23T00:00:00.000",
+    "Total_Visitors": 215,
+    "Male_Visitors": 107,
+    "Female_Visitors": 108
+  },
+  {
+    "Date": "2024-06-24T00:00:00.000",
+    "Total_Visitors": 114,
+    "Male_Visitors": 57,
+    "Female_Visitors": 57
+  },
+  {
+    "Date": "2024-06-25T00:00:00.000",
+    "Total_Visitors": 290,
+    "Male_Visitors": 145,
+    "Female_Visitors": 145
+  },
+  {
+    "Date": "2024-06-26T00:00:00.000",
+    "Total_Visitors": 289,
+    "Male_Visitors": 144,
+    "Female_Visitors": 145
+  },
+  {
+    "Date": "2024-06-27T00:00:00.000",
+    "Total_Visitors": 123,
+    "Male_Visitors": 61,
+    "Female_Visitors": 62
+  },
+  {
+    "Date": "2024-06-28T00:00:00.000",
+    "Total_Visitors": 108,
+    "Male_Visitors": 54,
+    "Female_Visitors": 54
+  },
+  {
+    "Date": "2024-06-29T00:00:00.000",
+    "Total_Visitors": 275,
+    "Male_Visitors": 137,
+    "Female_Visitors": 138
+  },
+  {
+    "Date": "2024-06-30T00:00:00.000",
+    "Total_Visitors": 188,
+    "Male_Visitors": 94,
+    "Female_Visitors": 94
+  },
+  {
+    "Date": "2024-07-01T00:00:00.000",
+    "Total_Visitors": 246,
+    "Male_Visitors": 123,
+    "Female_Visitors": 123
+  },
+  {
+    "Date": "2024-07-02T00:00:00.000",
+    "Total_Visitors": 209,
+    "Male_Visitors": 104,
+    "Female_Visitors": 105
+  },
+  {
+    "Date": "2024-07-03T00:00:00.000",
+    "Total_Visitors": 116,
+    "Male_Visitors": 58,
+    "Female_Visitors": 58
+  },
+  {
+    "Date": "2024-07-04T00:00:00.000",
+    "Total_Visitors": 195,
+    "Male_Visitors": 97,
+    "Female_Visitors": 98
+  },
+  {
+    "Date": "2024-07-05T00:00:00.000",
+    "Total_Visitors": 205,
+    "Male_Visitors": 102,
+    "Female_Visitors": 103
+  },
+  {
+    "Date": "2024-07-06T00:00:00.000",
+    "Total_Visitors": 155,
+    "Male_Visitors": 77,
+    "Female_Visitors": 78
+  },
+  {
+    "Date": "2024-07-07T00:00:00.000",
+    "Total_Visitors": 298,
+    "Male_Visitors": 149,
+    "Female_Visitors": 149
+  },
+  {
+    "Date": "2024-07-08T00:00:00.000",
+    "Total_Visitors": 129,
+    "Male_Visitors": 64,
+    "Female_Visitors": 65
+  },
+  {
+    "Date": "2024-07-09T00:00:00.000",
+    "Total_Visitors": 162,
+    "Male_Visitors": 81,
+    "Female_Visitors": 81
+  },
+  {
+    "Date": "2024-07-10T00:00:00.000",
+    "Total_Visitors": 194,
+    "Male_Visitors": 97,
+    "Female_Visitors": 97
+  },
+  {
+    "Date": "2024-07-11T00:00:00.000",
+    "Total_Visitors": 150,
+    "Male_Visitors": 75,
+    "Female_Visitors": 75
+  },
+  {
+    "Date": "2024-07-12T00:00:00.000",
+    "Total_Visitors": 122,
+    "Male_Visitors": 61,
+    "Female_Visitors": 61
+  },
+  {
+    "Date": "2024-07-13T00:00:00.000",
+    "Total_Visitors": 257,
+    "Male_Visitors": 128,
+    "Female_Visitors": 129
+  },
+  {
+    "Date": "2024-07-14T00:00:00.000",
+    "Total_Visitors": 283,
+    "Male_Visitors": 141,
+    "Female_Visitors": 142
+  },
+  {
+    "Date": "2024-07-15T00:00:00.000",
+    "Total_Visitors": 184,
+    "Male_Visitors": 92,
+    "Female_Visitors": 92
+  },
+  {
+    "Date": "2024-07-16T00:00:00.000",
+    "Total_Visitors": 200,
+    "Male_Visitors": 100,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2024-07-17T00:00:00.000",
+    "Total_Visitors": 116,
+    "Male_Visitors": 58,
+    "Female_Visitors": 58
+  },
+  {
+    "Date": "2024-07-18T00:00:00.000",
+    "Total_Visitors": 191,
+    "Male_Visitors": 95,
+    "Female_Visitors": 96
+  },
+  {
+    "Date": "2024-07-19T00:00:00.000",
+    "Total_Visitors": 269,
+    "Male_Visitors": 134,
+    "Female_Visitors": 135
+  },
+  {
+    "Date": "2024-07-20T00:00:00.000",
+    "Total_Visitors": 163,
+    "Male_Visitors": 81,
+    "Female_Visitors": 82
+  },
+  {
+    "Date": "2024-07-21T00:00:00.000",
+    "Total_Visitors": 168,
+    "Male_Visitors": 84,
+    "Female_Visitors": 84
+  },
+  {
+    "Date": "2024-07-22T00:00:00.000",
+    "Total_Visitors": 199,
+    "Male_Visitors": 99,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2024-07-23T00:00:00.000",
+    "Total_Visitors": 207,
+    "Male_Visitors": 103,
+    "Female_Visitors": 104
+  },
+  {
+    "Date": "2024-07-24T00:00:00.000",
+    "Total_Visitors": 199,
+    "Male_Visitors": 99,
+    "Female_Visitors": 100
+  },
+  {
+    "Date": "2024-07-25T00:00:00.000",
+    "Total_Visitors": 270,
+    "Male_Visitors": 135,
+    "Female_Visitors": 135
+  },
+  {
+    "Date": "2024-07-26T00:00:00.000",
+    "Total_Visitors": 225,
+    "Male_Visitors": 112,
+    "Female_Visitors": 113
+  },
+  {
+    "Date": "2024-07-27T00:00:00.000",
+    "Total_Visitors": 246,
+    "Male_Visitors": 123,
+    "Female_Visitors": 123
+  },
+  {
+    "Date": "2024-07-28T00:00:00.000",
+    "Total_Visitors": 266,
+    "Male_Visitors": 133,
+    "Female_Visitors": 133
+  },
+  {
+    "Date": "2024-07-29T00:00:00.000",
+    "Total_Visitors": 279,
+    "Male_Visitors": 139,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2024-07-30T00:00:00.000",
+    "Total_Visitors": 239,
+    "Male_Visitors": 119,
+    "Female_Visitors": 120
+  },
+  {
+    "Date": "2024-07-31T00:00:00.000",
+    "Total_Visitors": 110,
+    "Male_Visitors": 55,
+    "Female_Visitors": 55
+  },
+  {
+    "Date": "2024-08-01T00:00:00.000",
+    "Total_Visitors": 280,
+    "Male_Visitors": 140,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2024-08-02T00:00:00.000",
+    "Total_Visitors": 171,
+    "Male_Visitors": 85,
+    "Female_Visitors": 86
+  },
+  {
+    "Date": "2024-08-03T00:00:00.000",
+    "Total_Visitors": 279,
+    "Male_Visitors": 139,
+    "Female_Visitors": 140
+  },
+  {
+    "Date": "2024-08-04T00:00:00.000",
+    "Total_Visitors": 216,
+    "Male_Visitors": 108,
+    "Female_Visitors": 108
+  },
+  {
+    "Date": "2024-08-05T00:00:00.000",
+    "Total_Visitors": 217,
+    "Male_Visitors": 108,
+    "Female_Visitors": 109
+  },
+  {
+    "Date": "2024-08-06T00:00:00.000",
+    "Total_Visitors": 193,
+    "Male_Visitors": 96,
+    "Female_Visitors": 97
+  },
+  {
+    "Date": "2024-08-07T00:00:00.000",
+    "Total_Visitors": 216,
+    "Male_Visitors": 108,
+    "Female_Visitors": 108
+  },
+  {
+    "Date": "2024-08-08T00:00:00.000",
+    "Total_Visitors": 261,
+    "Male_Visitors": 130,
+    "Female_Visitors": 131
+  },
+  {
+    "Date": "2024-08-09T00:00:00.000",
+    "Total_Visitors": 223,
+    "Male_Visitors": 111,
+    "Female_Visitors": 112
+  },
+  {
+    "Date": "2024-08-10T00:00:00.000",
+    "Total_Visitors": 186,
+    "Male_Visitors": 93,
+    "Female_Visitors": 93
+  },
+  {
+    "Date": "2024-08-11T00:00:00.000",
+    "Total_Visitors": 216,
+    "Male_Visitors": 108,
+    "Female_Visitors": 108
+  },
+  {
+    "Date": "2024-08-12T00:00:00.000",
+    "Total_Visitors": 181,
+    "Male_Visitors": 90,
+    "Female_Visitors": 91
+  },
+  {
+    "Date": "2024-08-13T00:00:00.000",
+    "Total_Visitors": 235,
+    "Male_Visitors": 117,
+    "Female_Visitors": 118
+  },
+  {
+    "Date": "2024-08-14T00:00:00.000",
+    "Total_Visitors": 267,
+    "Male_Visitors": 133,
+    "Female_Visitors": 134
+  },
+  {
+    "Date": "2024-08-15T00:00:00.000",
+    "Total_Visitors": 153,
+    "Male_Visitors": 76,
+    "Female_Visitors": 77
+  },
+  {
+    "Date": "2024-08-16T00:00:00.000",
+    "Total_Visitors": 106,
+    "Male_Visitors": 53,
+    "Female_Visitors": 53
+  },
+  {
+    "Date": "2024-08-17T00:00:00.000",
+    "Total_Visitors": 113,
+    "Male_Visitors": 56,
+    "Female_Visitors": 57
+  },
+  {
+    "Date": "2024-08-18T00:00:00.000",
+    "Total_Visitors": 297,
+    "Male_Visitors": 148,
+    "Female_Visitors": 149
+  },
+  {
+    "Date": "2024-08-19T00:00:00.000",
+    "Total_Visitors": 264,
+    "Male_Visitors": 132,
+    "Female_Visitors": 132
+  },
+  {
+    "Date": "2024-08-20T00:00:00.000",
+    "Total_Visitors": 234,
+    "Male_Visitors": 117,
+    "Female_Visitors": 117
+  },
+  {
+    "Date": "2024-08-21T00:00:00.000",
+    "Total_Visitors": 214,
+    "Male_Visitors": 107,
+    "Female_Visitors": 107
+  },
+  {
+    "Date": "2024-08-22T00:00:00.000",
+    "Total_Visitors": 255,
+    "Male_Visitors": 127,
+    "Female_Visitors": 128
+  },
+  {
+    "Date": "2024-08-23T00:00:00.000",
+    "Total_Visitors": 139,
+    "Male_Visitors": 69,
+    "Female_Visitors": 70
+  },
+  {
+    "Date": "2024-08-24T00:00:00.000",
+    "Total_Visitors": 218,
+    "Male_Visitors": 109,
+    "Female_Visitors": 109
+  },
+  {
+    "Date": "2024-08-25T00:00:00.000",
+    "Total_Visitors": 174,
+    "Male_Visitors": 87,
+    "Female_Visitors": 87
+  },
+  {
+    "Date": "2024-08-26T00:00:00.000",
+    "Total_Visitors": 165,
+    "Male_Visitors": 82,
+    "Female_Visitors": 83
+  },
+  {
+    "Date": "2024-08-27T00:00:00.000",
+    "Total_Visitors": 104,
+    "Male_Visitors": 52,
+    "Female_Visitors": 52
+  },
+  {
+    "Date": "2024-08-28T00:00:00.000",
+    "Total_Visitors": 105,
+    "Male_Visitors": 52,
+    "Female_Visitors": 53
+  },
+  {
+    "Date": "2024-08-29T00:00:00.000",
+    "Total_Visitors": 203,
+    "Male_Visitors": 101,
+    "Female_Visitors": 102
+  },
+  {
+    "Date": "2024-08-30T00:00:00.000",
+    "Total_Visitors": 157,
+    "Male_Visitors": 78,
+    "Female_Visitors": 79
+  }
+]
