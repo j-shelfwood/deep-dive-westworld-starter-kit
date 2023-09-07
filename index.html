@@ -44,7 +44,11 @@
       ];
 
       // Add the image overlay
-      var image = L.imageOverlay("./images/map.png", bounds).addTo(map);
+      L.tileLayer("./tiles/{z}/{x}{y}.png", {
+        minZoom: -1,
+        maxZoom: 1,
+        bounds: bounds,
+      }).addTo(map);
 
       // Set max bounds to limit panning
       map.setMaxBounds(bounds);
